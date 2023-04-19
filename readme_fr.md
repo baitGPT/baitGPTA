@@ -11,10 +11,10 @@ Le but de ce projet est d'automatiser le processus dans l'espoir de lutter effic
 ### Comment utiliser BaitGPT ?
 #### En tant qu'utilisateur :
 
-- Parcourez votre boîte aux lettres (et votre dossier spam) et identifiez les escroqueries qui correspondent au projet (potentiellement des escroqueries à l'avance, des hameçonnages, ou d'autres usurpations d'identité. Les courriels d'hameçonnage demandant de cliquer sur un lien ne sont pas inclus).
+- Parcourez votre boîte aux lettres (et votre dossier spam) et identifiez les escroqueries qui correspondent au projet (potentiellement des escroqueries à l'avance, des hameçonnages, ou d'autres usurpations d'identité. Les courriels d'hameçonnage demandant de cliquer sur un lien ou d'ouvrir une pièce jointe ne sont pas concernés).
 - Téléchargez les courriels identifiés sous forme de fichiers `.eml` (Tutoriel pour [Gmail et Outlook](https://www.codetwo.com/kb/export-email-to-file/#outlook-on-the-web)).
 - Envoyez un courriel à [BaitGPT.reports@outlook.com](mailto:BaitGPT.reports@outlook.com?subject=[GitHub]%20Scams%20report)], en y joignant les fichiers `.eml`.
-- Supprimez les fichiers `.eml` sur votre ordinateur.
+- Supprimez les fichiers `.eml` de votre ordinateur.
 
 #### En tant qu'expéditeur :
 - clonez le dépôt

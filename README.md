@@ -11,10 +11,10 @@ The goal of this project is to automate the process in the hope of fighting effi
 
 ### How to use BaitGPT?
 #### As a user :
-- Go through your mailbox (and spam folder) and identify scams that fit the project (Potentially from advance-fee scams, catfishes, or other impersonations. Phishing emails requesting to click on a link are not included.).
+- Go through your mailbox (and spam folder) and identify scams that fit the project (Potentially from advance-fee scams, catfishes, or other impersonations. Phishing emails requesting to click on a link or open an attachment are not included.).
 - Download the identified emails as `.eml` files (Tutorial for [Gmail and Outlook](https://www.codetwo.com/kb/export-email-to-file/#outlook-on-the-web)).
 - Send an email to [BaitGPT.reports@outlook.com](mailto:BaitGPT.reports@outlook.com?subject=[GitHub]%20Scams%20report)], with attached the `.eml` files.
-- Delete the `.eml` files on your computer.
+- Delete the `.eml` files from your computer.
 #### As a sender :
 - clone the repository
 - get an [api key](https://platform.openai.com/account/api-keys) from OpenAI store it in `GPTkey.json` as `{"api_key": "Your_Key"}`.
