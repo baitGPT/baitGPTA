@@ -31,12 +31,16 @@ Le but de ce projet est d'automatiser le processus dans l'espoir de lutter effic
 - À chacune de ces étapes, une vérification humaine peut être ajoutée (elle est actuellement active avant l'envoi).
 - Indépendamment, une boucle similaire s'exécute sur la boîte aux lettres "output" afin de poursuivre la discussion au cas où l'appât fonctionnerait.
 
-### Q&A
+### FAQ
 - Que faisons-nous de vos données ?
 Temporairement, les courriels peuvent être stockés temporairement à des fins de débogage et d'évaluation de l'efficacité.
 Vos données (adresse électronique et informations personnelles contenues dans les courriels) ne seront pas exploitées ni partagées avec des tiers.
 Les courriels sont supprimés après avoir reçu une réponse et ne contiennent pas votre adresse électronique. Seul le corps du document est envoyé, qui peut contenir des informations personnelles telles que des noms ou des informations d'identification divulguées.
 - Combien cela coûte-t-il ?
 Pour l'utilisateur : rien. Pour l'expéditeur : environ 0,003 $ par courriel. Pour les escrocs : un temps précieux non consacré à l'escroquerie de personnes réelles.
+
 ### Développement ultérieur :
-Parmi toutes les escroqueries, celle dont il est question ici ne représente qu'une part mineure, à côté du phishing, de la malveillance, etc.
+Parmi toutes les escroqueries, celle dont il est question ici ne représente qu'une part mineure, à côté du phishing, des pièces jointes malveillantes, etc.
+
+L'une des principales limites est le support : les courriels semblent dépréciés par rapport aux messageries privées sur les réseaux sociaux tels qu'Instagram ou Facebook. La mise en œuvre sur ces médias ouvrirait des possibilités mais représenterait une étape importante en termes de complexité.
+L'objectif premier de ce projet est d'évaluer l'efficacité d'une telle méthode. Toute idée d'amélioration est la bienvenue.

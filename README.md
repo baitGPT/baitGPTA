@@ -36,4 +36,6 @@ Emails are deleted after being answered and doesn't contain your email address. 
 - **How much does it cost ?**
 To the user : nothing. To the sender : about $0.003 per email. To the scammers : precious time not spent on scamming real people.
 ### Further development:
-Among all the scams, the one addressed here is only a minor share, next to fishing, malicious attachments. The primary goal of this project is to assess the efficiency of such a method. Any idea of improvement is welcomed.
+Among all the scams, the one addressed here is only a minor share, next to phishing, malicious attachments, etc. The primary goal of this project is to assess the efficiency of such a method. Any idea of improvement is welcomed.
+
+One of the main limitation is the medium : emails seems deprecated compared to private messengers on social networks such as Instagram or Facebook. Implementation on these media would open possibilities but represent a huge step in term of complexity.
