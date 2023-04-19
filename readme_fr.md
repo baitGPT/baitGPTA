@@ -39,4 +39,4 @@ Les courriels sont supprimés après avoir reçu une réponse et ne contiennent 
 - Combien cela coûte-t-il ?
 Pour l'utilisateur : rien. Pour l'expéditeur : environ 0,003 $ par courriel. Pour les escrocs : un temps précieux non consacré à l'escroquerie de personnes réelles.
 ### Développement ultérieur :
-Parmi toutes les escroqueries, celle dont il est question ici ne représente qu'une part mineure, à côté de la pêche, de la malveillance, etc.
+Parmi toutes les escroqueries, celle dont il est question ici ne représente qu'une part mineure, à côté du phishing, de la malveillance, etc.
