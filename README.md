@@ -1,5 +1,6 @@
 ## BaitGPT : Automated emails with scammers using GPT3.5
 
+French documentation [there](/readme_fr.md)
 With the recent progress of Large Language Models and their wider usage from the general publics, many have feared an increase usage of these for scamming purposes [1](https://www.mcafee.com/blogs/internet-security/chatgpt-a-scammers-newest-tool/)[2](https://medium.com/geekculture/chatgpt-the-new-frontier-of-scamming-and-fraud-6884da6e2ff1). While this is a risk, the purpose of this project is to test the opposite : using AIs to flood scammers and catfishes with automated answers.
 
 At this point, the project aims at scam emails such as the advance-fee scams, catfishes, or other impersonations.
