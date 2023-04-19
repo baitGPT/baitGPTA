@@ -4,7 +4,7 @@ Avec les récents progrès des LLM et leur utilisation plus large par le grand p
 
 À ce stade, le projet vise les courriels frauduleux tels que les escroqueries à l'avance de frais, les escrocs ou d'autres usurpations d'identité.
 
-Cette idée n'est pas nouvelle et a été tentée avec humour par James Veitch dans sa [série Youtube] (https://www.youtube.com/playlist?list=PLjaZD_N3WCf-SzY9lQqsUNbubksD_KCPT).
+Cette idée n'est pas nouvelle et a été tentée avec humour par James Veitch dans sa [série Youtube](https://www.youtube.com/playlist?list=PLjaZD_N3WCf-SzY9lQqsUNbubksD_KCPT).
 
 Le but de ce projet est d'automatiser le processus dans l'espoir de lutter efficacement contre les escroqueries.
 
